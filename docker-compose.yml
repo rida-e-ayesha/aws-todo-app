@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  # Photogram -> React + Firebase App 
+  # Todo app -> React + Firebase App 
   react-app:
     build:
       context: .
